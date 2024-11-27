@@ -1,4 +1,4 @@
-# 🚀 SMM Panel V1 
+# 🚀 SMM Panel 
 
 ## 📱 What is an SMM Panel? 
 
@@ -62,4 +62,4 @@ Due to their access to user information and social media accounts, security is p
 
 ---
 
-<p align="center">This projects foundation does not belong to For Development. It has been developed and customized by our team.</p>
+<p align="center">This projects foundation does not belong to Egecan Akıncıoğlu. It has been developed and customized by our team.</p>
